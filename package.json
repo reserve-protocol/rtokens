@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "RToken list",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "author": "LC Labs LLC",
+  "license": "ISC",
+  "types": "index.d.ts"
 }
