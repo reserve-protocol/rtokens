@@ -5,7 +5,6 @@ declare const rtokens: {
     symbol: string;
     decimals: number;
     logo: string;
-    facadeAddress: string;
     website?: string;
     repository?: string;
     about?: string;

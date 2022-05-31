@@ -4,7 +4,6 @@
     "name": "Reserve Dollar Plus",
     "symbol": "RSDP",
     "decimals": 18,
-    "logo": "rsdp.png",
-    "facade": "0x90Ea8910313b56961A028309A2ED565CCA7f0657"
+    "logo": "rsdp.png"
   }
 }
