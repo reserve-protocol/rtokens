@@ -1,0 +1,17 @@
+{
+  "0x196f4727526eA7FB1e17b2071B3d8eAA38486988": {
+    "address": "0x196f4727526eA7FB1e17b2071B3d8eAA38486988",
+    "name": "Reserve",
+    "symbol": "RSV",
+    "decimals": 18,
+    "isRSV": true,
+    "logo": "rsdp.png"
+  },
+  "0xff4DA0E6C71189814d290564F455C21aeCC66430": {
+    "address": "0xff4DA0E6C71189814d290564F455C21aeCC66430",
+    "name": "Reserve Dollar Plus",
+    "symbol": "RSDP",
+    "decimals": 18,
+    "logo": "rsdp.png"
+  }
+}
