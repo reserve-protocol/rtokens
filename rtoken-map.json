@@ -1,16 +1,34 @@
 {
-  "0x0bdB19551E641D25ea56AD1C66927313B331a955": {
-    "address": "0x0bdB19551E641D25ea56AD1C66927313B331a955",
-    "name": "RTKN Test",
-    "symbol": "RTKN",
-    "decimals": 18,
-    "logo": "rsdp.png"
+  "5": {
+    "0x8431278459066BF0d2536db436709b1BB96Fdc4D": {
+      "address": "0x8431278459066BF0d2536db436709b1BB96Fdc4D",
+      "name": "rDAI",
+      "symbol": "rDAI",
+      "decimals": 18,
+      "logo": "default.png"
+    },
+    "0xE794eA53578837f6193bBb77885A52c2ee394e14": {
+      "address": "0xE794eA53578837f6193bBb77885A52c2ee394e14",
+      "name": "Reserve",
+      "symbol": "RSV",
+      "logo": "rsv.png",
+      "decimals": 18
+    }
   },
-  "0x196f4727526eA7FB1e17b2071B3d8eAA38486988": {
-    "address": "0x196f4727526eA7FB1e17b2071B3d8eAA38486988",
-    "name": "Reserve",
-    "symbol": "RSV",
-    "logo": "rsv.png",
-    "decimals": 18
+  "31337": {
+    "0x0bdB19551E641D25ea56AD1C66927313B331a955": {
+      "address": "0x0bdB19551E641D25ea56AD1C66927313B331a955",
+      "name": "RTKN Test",
+      "symbol": "RTKN",
+      "decimals": 18,
+      "logo": "default.png"
+    },
+    "0x196f4727526eA7FB1e17b2071B3d8eAA38486988": {
+      "address": "0x196f4727526eA7FB1e17b2071B3d8eAA38486988",
+      "name": "Reserve",
+      "symbol": "RSV",
+      "logo": "rsv.png",
+      "decimals": 18
+    }
   }
 }
