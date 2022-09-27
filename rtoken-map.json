@@ -1,34 +1,28 @@
 {
-  "5": {
-    "0x8431278459066BF0d2536db436709b1BB96Fdc4D": {
-      "address": "0x8431278459066BF0d2536db436709b1BB96Fdc4D",
-      "name": "rDAI",
-      "symbol": "rDAI",
-      "decimals": 18,
-      "logo": "default.png"
-    },
-    "0xC54cA3D2A4fE68D079b45c92D703DADfE3Ad0AA0": {
-      "address": "0xC54cA3D2A4fE68D079b45c92D703DADfE3Ad0AA0",
-      "name": "Reserve",
-      "symbol": "RSV",
-      "logo": "rsv.png",
-      "decimals": 18
-    }
+  "0x8431278459066BF0d2536db436709b1BB96Fdc4D": {
+    "address": "0x8431278459066BF0d2536db436709b1BB96Fdc4D",
+    "name": "rDAI",
+    "symbol": "rDAI",
+    "decimals": 18,
+    "logo": "default.svg"
   },
-  "31337": {
-    "0x0bdB19551E641D25ea56AD1C66927313B331a955": {
-      "address": "0x0bdB19551E641D25ea56AD1C66927313B331a955",
-      "name": "RTKN Test",
-      "symbol": "RTKN",
-      "decimals": 18,
-      "logo": "default.png"
+  "0xC54cA3D2A4fE68D079b45c92D703DADfE3Ad0AA0": {
+    "address": "0xC54cA3D2A4fE68D079b45c92D703DADfE3Ad0AA0",
+    "name": "Reserve",
+    "symbol": "RSV",
+    "logo": "rsv.svg",
+    "decimals": 18,
+    "about": "RSV About copy",
+    "website": "https://reserve.org",
+    "support": {
+      "email": "support@reserve.org",
+      "url": ""
     },
-    "0xC54cA3D2A4fE68D079b45c92D703DADfE3Ad0AA0": {
-      "address": "0xC54cA3D2A4fE68D079b45c92D703DADfE3Ad0AA0",
-      "name": "Reserve",
-      "symbol": "RSV",
-      "logo": "rsv.png",
-      "decimals": 18
+    "social": {
+      "blog": "https://medium.com/reserve-currency",
+      "github": "https://github.com/reserve-protocol/rsv-v2",
+      "telegram": "https://t.me/reservecurrency",
+      "twitter": "https://twitter.com/reserveprotocol"
     }
   }
 }
