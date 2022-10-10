@@ -17,51 +17,5 @@
       "telegram": "https://t.me/reservecurrency",
       "twitter": "https://twitter.com/reserveprotocol"
     }
-  },
-  "0x40008f2E9B40a5Cb6AfC9B2C9c018Ed109b8CB55": {
-    "address": "0x40008f2E9B40a5Cb6AfC9B2C9c018Ed109b8CB55",
-    "name": "RStableTest",
-    "symbol": "RStableTest",
-    "logo": "rsv.svg",
-    "decimals": 18,
-    "about": "RStable about ...",
-    "website": "https://reserve.org",
-    "support": {
-      "email": "support@reserve.org",
-      "url": ""
-    },
-    "social": {
-      "blog": "https://medium.com/reserve-currency",
-      "github": "https://github.com/reserve-protocol/rsv-v2",
-      "telegram": "https://t.me/reservecurrency",
-      "twitter": "https://twitter.com/reserveprotocol"
-    },
-    "governance": {
-      "voting": "https://medium.com/reserve-currency",
-      "discussion": "https://medium.com/reserve-currency"
-    }
-  },
-  "0x08960600B7D30988555E10daD266C3FD69A616Bc": {
-    "address": "0x08960600B7D30988555E10daD266C3FD69A616Bc",
-    "name": "RTokenEverything",
-    "symbol": "RTokenEverything",
-    "logo": "rsv.svg",
-    "decimals": 18,
-    "about": "RTokenEverything all collateral!",
-    "website": "https://reserve.org",
-    "support": {
-      "email": "support@reserve.org",
-      "url": ""
-    },
-    "social": {
-      "blog": "https://medium.com/reserve-currency",
-      "github": "https://github.com/reserve-protocol/rsv-v2",
-      "telegram": "https://t.me/reservecurrency",
-      "twitter": "https://twitter.com/reserveprotocol"
-    },
-    "governance": {
-      "voting": "https://medium.com/reserve-currency",
-      "discussion": "https://medium.com/reserve-currency"
-    }
   }
 }
