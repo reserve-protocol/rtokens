@@ -17,24 +17,5 @@
       "telegram": "https://t.me/reservecurrency",
       "twitter": "https://twitter.com/reserveprotocol"
     }
-  },
-  "0xcEC59484A59e0EE908B25Ae6C9e2FeC43c012bbD": {
-    "address": "0xcEC59484A59e0EE908B25Ae6C9e2FeC43c012bbD",
-    "name": "Bogota Test",
-    "symbol": "BTUSD",
-    "logo": "default.svg",
-    "decimals": 18,
-    "about": "Bogota Test token!! (Do not use)",
-    "website": "https://reserve.org",
-    "support": {
-      "email": "support@reserve.org",
-      "url": ""
-    },
-    "social": {
-      "blog": "https://medium.com/reserve-currency",
-      "github": "https://github.com/reserve-protocol/rsv-v2",
-      "telegram": "https://t.me/reservecurrency",
-      "twitter": "https://twitter.com/reserveprotocol"
-    }
   }
 }
