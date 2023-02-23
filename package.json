@@ -1,5 +1,5 @@
 {
-  "name": "rtokens",
+  "name": "@lc-labs/rtokens",
   "version": "1.0.1",
   "description": "RToken list",
   "main": "index.js",
