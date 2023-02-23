@@ -17,5 +17,13 @@
       "telegram": "https://t.me/reservecurrency",
       "twitter": "https://twitter.com/reserveprotocol"
     }
+  },
+  "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F": {
+    "address": "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F",
+    "name": "Electronic Dollar",
+    "symbol": "eUSD",
+    "logo": "eUSD.svg",
+    "decimals": 18,
+    "about": "The eUSD RToken is a fully collateralized US-dollar stablecoin built on the Reserve Protocol"
   }
 }
