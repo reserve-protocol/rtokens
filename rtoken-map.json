@@ -25,5 +25,26 @@
     "logo": "eUSD.svg",
     "decimals": 18,
     "about": "The eUSD RToken is a fully collateralized US-dollar stablecoin built on the Reserve Protocol"
+  },
+  
+  "0x3998dD83C595E9c243214b21930CD5576A89dfe1": {
+    "address": "0x3998dD83C595E9c243214b21930CD5576A89dfe1",
+    "name": "Savings Dollar",
+    "symbol": "USD+",
+    "logo": "usdp.svg",
+    "decimals": 18,
+    "about": "The USD+ RToken is a US-dollar stablecoin built on the Reserve Protocol",
+    "website": "https://usdplus.tech",
+    "support": {
+      "email": "usd.plus.rtoken@gmail.com",
+      "url": ""
+    },
+    "social": {
+      "twitter": "https://twitter.com/USDPlus_"
+    }
   }
+
+
+
+
 }
