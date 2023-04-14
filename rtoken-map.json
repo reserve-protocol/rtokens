@@ -25,7 +25,7 @@
     "logo": "eUSD.svg",
     "decimals": 18,
     "about": "The eUSD RToken is a fully collateralized US-dollar stablecoin built on the Reserve Protocol"
-  }
+  },
   "0x2ADb7A8216fB13cDb7a60cBed2322a68b59f4F05": {
     "address": "0x2ADb7A8216fB13cDb7a60cBed2322a68b59f4F05",
     "name": "ETHPlus",
@@ -40,5 +40,5 @@
     "social": {
       "twitter": "https://twitter.com/ETHPlus_"
     }
-  },
+  }
 }
