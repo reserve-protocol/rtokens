@@ -25,5 +25,21 @@
     "logo": "eUSD.svg",
     "decimals": 18,
     "about": "The eUSD RToken is a fully collateralized US-dollar stablecoin built on the Reserve Protocol"
+  }, 
+    "0x2cabaa8010b3fbbDEeBe4a2D0fEffC2ed155bf37": {
+    "address": "0x2cabaa8010b3fbbDEeBe4a2D0fEffC2ed155bf37",
+    "name": "High Yield USD",
+    "symbol": "hyUSD",
+    "logo": "hyUSD.svg",
+    "decimals": 18,
+    "about": "Hodl stable money and earn passive income, powered by DeFi",
+    "website": "https://linktr.ee/hyusd",
+    "support": {
+      "email": "contact@high-yield.io",
+      "url": ""
+    },
+    "social": {
+      "twitter": "https://twitter.com/HighYieldUSD"
+    }
   }
 }
