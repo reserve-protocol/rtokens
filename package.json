@@ -1,6 +1,6 @@
 {
   "name": "@lc-labs/rtokens",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "RToken list",
   "main": "index.js",
   "author": "LC Labs LLC",
