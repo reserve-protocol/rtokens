@@ -63,7 +63,7 @@
     "symbol": "RSD",
     "logo": "RSD.svg",
     "decimals": 18,
-    "about": "The RSD RToken creates a burning mechanism for the Reserve Rights token. RSD goals are achieved by building a treasury to create high liquidity which is managed by a third party multisig wallet."
+    "about": "The RSD RToken creates a burning mechanism for the Reserve Rights token. RSD goals are achieved by building a treasury to create high liquidity for RSR/RSD which is managed by a third party multisig wallet."
   "support": {
       "url": "https://discord.com/invite/AF96GtkbGN"
     },
