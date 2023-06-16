@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.9] - 2023-06-16
+
+### Added
+
+- Add `RSD` to the RToken list
+
+### Changed
+
+- Update `hyUSD` and `ETH+` logo for consistent sizing
+
 ## [1.0.8] - 2023-04-24
 
 ### Added

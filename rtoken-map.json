@@ -56,20 +56,20 @@
     "social": {
       "twitter": "https://twitter.com/HighYieldUSD"
     }
-  }
-"0xF2098092a5b9D25A3cC7ddc76A0553c9922eEA9E": {
+  },
+  "0xF2098092a5b9D25A3cC7ddc76A0553c9922eEA9E": {
     "address": "0xF2098092a5b9D25A3cC7ddc76A0553c9922eEA9E",
     "name": "RSR Dollar",
     "symbol": "RSD",
     "logo": "RSD.svg",
     "decimals": 18,
-    "about": "The RSD RToken creates a burning mechanism for the Reserve Rights token. RSD goals are achieved by building a treasury to create deep liquidity for RSR/RSD which is managed by a third party multisig wallet."
-  "support": {
+    "about": "The RSD RToken creates a burning mechanism for the Reserve Rights token. RSD goals are achieved by building a treasury to create deep liquidity for RSR/RSD which is managed by a third party multisig wallet.",
+    "support": {
       "url": "https://discord.com/invite/AF96GtkbGN"
     },
-  "social": {
-      "twitter": "https://twitter.com/RSRDollar"
-      "telegram": "https://t.me/RSDRSR"
+    "social": {
+      "twitter": "https://twitter.com/RSRDollar",
+      "telegram": "https://t.me/RSDRSR",
       "discord": "https://discord.com/invite/AF96GtkbGN"
     }
   }
