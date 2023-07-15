@@ -71,6 +71,13 @@
       "twitter": "https://twitter.com/RSRDollar",
       "telegram": "https://t.me/RSDRSR",
       "discord": "https://discord.com/invite/AF96GtkbGN"
+    },
+    "address": "0x9b451BEB49a03586e6995E5A93b9c745D068581e",
+    "name": "Index USD",
+    "symbol": "iUSD",
+    "logo": "iUSD.svg",
+    "decimals": 18,
+    "about": "The Index USD combines diversification with balanced incentives to enable a fortified, yield-generating dollar for everyday users."
     }
   }
 }
