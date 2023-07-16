@@ -71,8 +71,9 @@
       "twitter": "https://twitter.com/RSRDollar",
       "telegram": "https://t.me/RSDRSR",
       "discord": "https://discord.com/invite/AF96GtkbGN"
-    },
-      "0x9b451BEB49a03586e6995E5A93b9c745D068581e": {
+    }
+  },
+  "0x9b451BEB49a03586e6995E5A93b9c745D068581e": {
     "address": "0x9b451BEB49a03586e6995E5A93b9c745D068581e",
     "name": "Index USD",
     "symbol": "iUSD",
