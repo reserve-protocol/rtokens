@@ -72,5 +72,20 @@
       "telegram": "https://t.me/RSDRSR",
       "discord": "https://discord.com/invite/AF96GtkbGN"
     }
+  },
+  "0x9b451BEB49a03586e6995E5A93b9c745D068581e": {
+    "address": "0x9b451BEB49a03586e6995E5A93b9c745D068581e",
+    "name": "Index USD",
+    "symbol": "iUSD",
+    "logo": "iUSD.svg",
+    "decimals": 18,
+    "about": "Strength and stability through diversity and balance.",
+    "website": "https://register.app/#/overview?token=0x9b451BEB49a03586e6995E5A93b9c745D068581e",
+    "support": {
+      "email": "indexusdollar@gmail.com"
+    },
+    "social": {
+      "twitter": "https://twitter.com/IndexUSDollar"
+    }
   }
 }
