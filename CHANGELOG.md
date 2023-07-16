@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.10] - 2023-07-16
+
+- Add `iUSD` to the RToken list
+
+### Added
+
+- Add `RSD` to the RToken list
+
 ## [1.0.9] - 2023-06-16
 
 ### Added
