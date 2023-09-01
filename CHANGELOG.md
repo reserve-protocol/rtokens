@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.11] - 2023-09-01
+
+- Update `iUSD` logo
+
 ## [1.0.10] - 2023-07-16
 
 - Add `iUSD` to the RToken list
