@@ -1,23 +1,4 @@
 {
-  "0x196f4727526eA7FB1e17b2071B3d8eAA38486988": {
-    "address": "0x196f4727526eA7FB1e17b2071B3d8eAA38486988",
-    "name": "Reserve",
-    "symbol": "RSV",
-    "logo": "rsv.svg",
-    "decimals": 18,
-    "about": "RSV About copy",
-    "website": "https://reserve.org",
-    "support": {
-      "email": "support@reserve.org",
-      "url": ""
-    },
-    "social": {
-      "blog": "https://medium.com/reserve-currency",
-      "github": "https://github.com/reserve-protocol/rsv-v2",
-      "telegram": "https://t.me/reservecurrency",
-      "twitter": "https://twitter.com/reserveprotocol"
-    }
-  },
   "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F": {
     "address": "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F",
     "name": "Electronic Dollar",

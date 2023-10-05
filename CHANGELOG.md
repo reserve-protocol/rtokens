@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.12] - 2023-10-5
+
+- Support multichain (base)
+
 ## [1.0.11] - 2023-09-01
 
 - Update `iUSD` logo

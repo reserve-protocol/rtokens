@@ -1,6 +1,6 @@
 # RToken list
 
-List of supported rTokens for Register
+List of supported RTokens for Register
 
 ## Fields
 
@@ -30,9 +30,6 @@ Full list of fields with specific schema [here](https://github.com/lc-labs/rtoke
 Criteria:
 
 - The address should be in checksum format or it will not be accepted.
-- The rToken should have governance
+- The RToken should have governance
 - PR should include link to official project website referencing the suggested address.
-- Project website should include explanation of project.
-- Project should have clear signs of activity, either traffic on the network, activity on GitHub, or community buzz.
-- Nice to have a verified source code on a block explorer like Etherscan.
-- Must have a ['NEUTRAL' reputation or 'OK' reputation](https://info.etherscan.com/etherscan-token-reputation) on Etherscan.
+- PR should include token logo.
