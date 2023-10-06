@@ -38,6 +38,15 @@
       "twitter": "https://twitter.com/HighYieldUSD"
     }
   },
+  "0xFc0B1EEf20e4c68B3DCF36c4537Cfa7Ce46CA70b": {
+    "address": "0xFc0B1EEf20e4c68B3DCF36c4537Cfa7Ce46CA70b",
+    "name": "USDC Plus",
+    "symbol": "USDC+",
+    "logo": "usdcplus.svg",
+    "decimals": 18,
+    "about": "USDC PLUS (USDC+): A community governed yield bearing USDC index optimized for yield to holders and overcollateralization protection.",
+    "website": "https://register.app/#/overview?token=0xFc0B1EEf20e4c68B3DCF36c4537Cfa7Ce46CA70b"
+  },
   "0xF2098092a5b9D25A3cC7ddc76A0553c9922eEA9E": {
     "address": "0xF2098092a5b9D25A3cC7ddc76A0553c9922eEA9E",
     "name": "RSR Dollar",
@@ -68,14 +77,5 @@
     "social": {
       "twitter": "https://twitter.com/IndexUSDollar"
     }
-  },
-  "0xFc0B1EEf20e4c68B3DCF36c4537Cfa7Ce46CA70b": {
-    "address": "0xFc0B1EEf20e4c68B3DCF36c4537Cfa7Ce46CA70b",
-    "name": "USDC Plus",
-    "symbol": "USDC+",
-    "logo": "usdcplus.svg",
-    "decimals": 18,
-    "about": "USDC PLUS (USDC+): A community governed yield bearing USDC index optimized for yield to holders and overcollateralization protection.",
-    "website": "https://register.app/#/overview?token=0xFc0B1EEf20e4c68B3DCF36c4537Cfa7Ce46CA70b"
   }
 }
