@@ -1,1 +1,18 @@
-{}
+{
+  "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e": {
+    "address": "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e",
+    "name": "High Yield USD",
+    "symbol": "hyUSD",
+    "logo": "hyUSD.svg",
+    "decimals": 18,
+    "about": "Hodl stable money and earn passive income, powered by DeFi",
+    "website": "https://linktr.ee/hyusd",
+    "support": {
+      "email": "contact@high-yield.io",
+      "url": ""
+    },
+    "social": {
+      "twitter": "https://twitter.com/HighYieldUSD"
+    }
+  }
+}
