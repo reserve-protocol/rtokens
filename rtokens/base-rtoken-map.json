@@ -16,3 +16,20 @@
     }
   }
 }
+{
+    "0x7f888173045F298e870F09Fcfb14D521a8eca666": {
+    "address": "0x7f888173045F298e870F09Fcfb14D521a8eca666",
+    "name": "Vaya",
+    "symbol": "Vaya",
+    "logo": "Vaya.svg",
+    "decimals": 18,
+    "about": "A decentralized stablecoin which is striking go get the ideal balance between maximizing the worth of your finances and safeguarding its security.",
+    "website": "https://register.app/#/overview?token=0x7f888173045F298e870F09Fcfb14D521a8eca666&chainId=8453",
+    "support": {
+      "url": "https://twitter.com/Vaya_stablecoin"
+    },
+    "social": {
+      "twitter": "https://twitter.com/Vaya_stablecoin"
+     }
+  }
+},
