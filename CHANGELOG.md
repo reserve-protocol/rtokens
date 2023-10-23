@@ -1,6 +1,14 @@
 # Changelog
 
-## [1.0.12] - 2023-10-5
+## [1.1.4] - 2023-10-23
+
+- Add Vaya (Base)
+
+## [1.1.2] - 2023-10-6
+
+- Add USDC+ (Mainnet)
+
+## [1.1.0] - 2023-10-5
 
 - Support multichain (base)
 
