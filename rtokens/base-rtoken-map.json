@@ -1,5 +1,5 @@
 {
-	"0xCc7FF230365bD730eE4B352cC2492CEdAC49383e": {
+  "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e": {
     "address": "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e",
     "name": "High Yield USD",
     "symbol": "hyUSD",
@@ -14,4 +14,20 @@
     "social": {
       "twitter": "https://twitter.com/HighYieldUSD"
     }
+  },
+  "0xC9a3e2B3064c1c0546D3D0edc0A748E9f93Cf18d": {
+    "address": "0xC9a3e2B3064c1c0546D3D0edc0A748E9f93Cf18d",
+    "name": "Vaya",
+    "symbol": "Vaya",
+    "logo": "vaya.svg",
+    "decimals": 18,
+    "about": "A decentralized stablecoin which is striking go get the ideal balance between maximizing the worth of your finances and safeguarding its security.",
+    "website": "https://register.app/#/overview?token=0xC9a3e2B3064c1c0546D3D0edc0A748E9f93Cf18d&chainId=8453",
+    "support": {
+      "url": "https://twitter.com/Vaya_stablecoin"
+    },
+    "social": {
+      "twitter": "https://twitter.com/Vaya_stablecoin"
+    }
+  }
 }
