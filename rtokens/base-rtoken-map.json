@@ -8,8 +8,8 @@
     "about": "hyUSD is a secure high yield savings flatcoin with up to 6% rewards outpacing inflation in over 100 countries around the world 🌎",
     "website": "https://linktr.ee/hyusd",
     "support": {
-    "email": "contact@high-yield.io",
-    "url": ""
+      "email": "contact@high-yield.io",
+      "url": ""
     },
     "social": {
       "twitter": "https://twitter.com/HighYieldUSD"
@@ -21,8 +21,8 @@
     "symbol": "Vaya",
     "logo": "vaya.svg",
     "decimals": 18,
-    "about": "A decentralized stablecoin which is striking go get the ideal balance between maximizing the worth of your finances and safeguarding its security.",
-    "website": "https://register.app/#/overview?token=0xC9a3e2B3064c1c0546D3D0edc0A748E9f93Cf18d&chainId=8453",
+    "about": "A decentralized stablecoin which is striking to get the ideal balance between maximizing the worth of your finances and safeguarding its security.",
+    "website": "https://vaya-stablecoin.com",
     "support": {
       "url": "https://twitter.com/Vaya_stablecoin"
     },
