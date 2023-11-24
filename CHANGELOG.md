@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.6] - 2023-10-23
+
+- Update vaya logo
+- Update hyUSD "about"
+
 ## [1.1.4] - 2023-10-23
 
 - Correct Vaya svg name
