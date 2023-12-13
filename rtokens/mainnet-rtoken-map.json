@@ -46,36 +46,5 @@
     "decimals": 18,
     "about": "USDC PLUS (USDC+): A community governed yield bearing USDC index optimized for yield to holders and overcollateralization protection.",
     "website": "https://register.app/#/overview?token=0xFc0B1EEf20e4c68B3DCF36c4537Cfa7Ce46CA70b"
-  },
-  "0xF2098092a5b9D25A3cC7ddc76A0553c9922eEA9E": {
-    "address": "0xF2098092a5b9D25A3cC7ddc76A0553c9922eEA9E",
-    "name": "RSR Dollar",
-    "symbol": "RSD",
-    "logo": "RSD.svg",
-    "decimals": 18,
-    "about": "The RSD RToken creates a burning mechanism for the Reserve Rights token. RSD goals are achieved by building a treasury to create deep liquidity for RSR/RSD which is managed by a third party multisig wallet.",
-    "support": {
-      "url": "https://discord.com/invite/AF96GtkbGN"
-    },
-    "social": {
-      "twitter": "https://twitter.com/RSRDollar",
-      "telegram": "https://t.me/RSDRSR",
-      "discord": "https://discord.com/invite/AF96GtkbGN"
-    }
-  },
-  "0x9b451BEB49a03586e6995E5A93b9c745D068581e": {
-    "address": "0x9b451BEB49a03586e6995E5A93b9c745D068581e",
-    "name": "Index USD",
-    "symbol": "iUSD",
-    "logo": "iUSD.svg",
-    "decimals": 18,
-    "about": "Strength and stability through diversity and balance.",
-    "website": "https://register.app/#/overview?token=0x9b451BEB49a03586e6995E5A93b9c745D068581e",
-    "support": {
-      "email": "indexusdollar@gmail.com"
-    },
-    "social": {
-      "twitter": "https://twitter.com/IndexUSDollar"
-    }
   }
 }

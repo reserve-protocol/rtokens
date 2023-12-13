@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.7] - 2023-12-13
+
+- Remove "iUSD" and "RSD" because of inactivity
+
 ## [1.1.6] - 2023-10-23
 
 - Update vaya logo
