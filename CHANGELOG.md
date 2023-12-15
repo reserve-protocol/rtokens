@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.8] - 2023-12-15
+
+- Update hyUSD logo
+
 ## [1.1.7] - 2023-12-13
 
 - Remove "iUSD" and "RSD" because of inactivity
