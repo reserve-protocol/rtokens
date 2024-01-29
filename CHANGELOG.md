@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.9] - 2024-01-29
+
+- Change logos to lowercase
+
 ## [1.1.8] - 2023-12-15
 
 - Update hyUSD logo
