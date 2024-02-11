@@ -30,4 +30,18 @@
       "twitter": "https://twitter.com/Vaya_stablecoin"
     }
   }
+   "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e": {
+    "address": "0x115C0Bb5886ABb5811E7Eabc912fb5718DAc5882",
+    "name": "Nomos Promissory Note",
+    "symbol": "NOTE",
+    "logo": "note.svg",
+    "decimals": 18,
+    "about": "A Nomos Note is always redeemable for 1 USD.",
+    "support": {
+      "email": "0xnomos@protonmail.com",
+      "url": ""
+    },
+    "social": {
+      "twitter": "https://twitter.com/0xNomos"
+    }
 }
