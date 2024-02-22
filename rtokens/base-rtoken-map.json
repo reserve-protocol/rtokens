@@ -36,13 +36,6 @@
     "symbol": "bsdETH",
     "logo": "bsdeth.svg",
     "decimals": 18,
-    "about": "A yield generating Ethereum Liquid Staking Token basket with over-collateralization protection. Deposits are currently eligible for pre-launch DIVA token allocations per the terms in this proposal: https://www.tally.xyz/gov/diva/proposal/38314542060713027082977990523280607813521163704798044817782268218160075499416?chart=0",
-    "website": "https://app.reserve.org/base/token/0xcb327b99ff831bf8223cced12b1338ff3aa322ff/overview",
-    "support": {
-      "url": ""
-    },
-    "social": {
-      "twitter": ""
-    }
+    "about": "A yield generating Ethereum Liquid Staking Token basket with over-collateralization protection. Deposits are currently eligible for pre-launch DIVA token allocations per the terms in this proposal: https://www.tally.xyz/gov/diva/proposal/38314542060713027082977990523280607813521163704798044817782268218160075499416?chart=0"
   }
 }

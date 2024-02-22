@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.10] - 2024-01-29
+
+- Add bsdETH (Base)
+
 ## [1.1.9] - 2024-01-29
 
 - Change logos to lowercase
