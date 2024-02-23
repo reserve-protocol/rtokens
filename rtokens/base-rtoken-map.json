@@ -30,6 +30,22 @@
       "twitter": "https://twitter.com/Vaya_stablecoin"
     }
   },
+  "0xfE0D6D83033e313691E96909d2188C150b834285": {
+    "address": "0xfE0D6D83033e313691E96909d2188C150b834285",
+    "name": "Insured USDC",
+    "symbol": "iUSDC",
+    "logo": "iusdc.svg",
+    "decimals": 18,
+    "about": "An onchain-insured form of USDC that serves as the primary medium of exchange on the Buzzaar social marketplace ensuring the safety of its user's funds.",
+    "website": "https://buzzaar.io",
+    "support": {
+      "email": "admin@buzzaar.io",
+      "url": "https://buzzaar.io/contact/"
+    },
+    "social": {
+      "twitter": "https://twitter.com/BuzzaarOnBase"
+    }
+  },
   "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff": {
     "address": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
     "name": "Based ETH",
