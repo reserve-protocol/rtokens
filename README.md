@@ -29,6 +29,7 @@ Full list of fields with specific schema [here](https://github.com/lc-labs/rtoke
 
 Criteria:
 
+- A market cap of **10,000 USD** is required for listing.
 - The address should be in checksum format or it will not be accepted.
 - The RToken should have governance
 - PR should include link to official project website referencing the suggested address.
