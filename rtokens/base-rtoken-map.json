@@ -30,6 +30,22 @@
       "twitter": "https://twitter.com/Vaya_stablecoin"
     }
   },
+  "0xC8448941AfC9E6ba122aea4a58AC5449af4d6ffd": {
+    "address": "0xC8448941AfC9E6ba122aea4a58AC5449af4d6ffd",
+    "name": "Maat",
+    "symbol": "MAAT",
+    "logo": "maat.svg",
+    "decimals": 18,
+    "about": "One Dollar. One hundred Satoshis. One thousand Gwei. Balance across time.",
+    "website": "",
+    "support": {
+      "email": "maatcurrency@gmail.com",
+      "url": ""
+    },
+    "social": {
+      "twitter": "https://twitter.com/ShrineOfMaat"
+    }
+  },
   "0xfE0D6D83033e313691E96909d2188C150b834285": {
     "address": "0xfE0D6D83033e313691E96909d2188C150b834285",
     "name": "Insured USDC",
