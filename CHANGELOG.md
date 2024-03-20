@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.1.11] - 2024-02-23
+
+- Add iUSD (Base)
+
+## [1.1.10] - 2024-02-22
+
+- Add bsdETH (Base)
+
+## [1.1.9] - 2024-01-29
+
+- Change logos to lowercase
+
+## [1.1.8] - 2023-12-15
+
+- Update hyUSD logo
+
+## [1.1.7] - 2023-12-13
+
+- Remove "iUSD" and "RSD" because of inactivity
+
 ## [1.1.6] - 2023-10-23
 
 - Update vaya logo

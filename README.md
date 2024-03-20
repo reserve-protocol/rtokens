@@ -13,7 +13,7 @@ List of supported RTokens for Register
 
 ### Optional (Recommended for optimal Register support)
 
-- `logo`: An optional logo of your token. Must be an `svg` added to the `images` folder, example: `rsv.svg`.
+- `logo`: An optional logo of your token. Must be an `svg` added to the `images` folder with lowercase filename, example: `rsv.svg`.
 - `governance`: A mapping that contains the `voting` and `discussion` urls related to governance.
 - `website`: Official URL of the website.
 - `about`: Short description of the rToken, displayed on the Register overview page.
@@ -29,6 +29,7 @@ Full list of fields with specific schema [here](https://github.com/lc-labs/rtoke
 
 Criteria:
 
+- A market cap of **10,000 USD** is required for listing.
 - The address should be in checksum format or it will not be accepted.
 - The RToken should have governance
 - PR should include link to official project website referencing the suggested address.

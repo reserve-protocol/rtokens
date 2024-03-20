@@ -3,7 +3,7 @@
     "address": "0xCc7FF230365bD730eE4B352cC2492CEdAC49383e",
     "name": "High Yield USD",
     "symbol": "hyUSD",
-    "logo": "hyUSD.svg",
+    "logo": "hyusd.svg",
     "decimals": 18,
     "about": "hyUSD is a secure high yield savings flatcoin with up to 6% rewards outpacing inflation in over 100 countries around the world 🌎",
     "website": "https://linktr.ee/hyusd",
@@ -34,7 +34,7 @@
     "address": "0xC8448941AfC9E6ba122aea4a58AC5449af4d6ffd",
     "name": "Maat",
     "symbol": "MAAT",
-    "logo": "Maat.svg",
+    "logo": "maat.svg",
     "decimals": 18,
     "about": "One Dollar. One hundred Satoshis. One thousand Gwei. Balance across time.",
     "website": "",
@@ -45,5 +45,29 @@
     "social": {
       "twitter": "https://twitter.com/ShrineOfMaat"
     }
+  },
+  "0xfE0D6D83033e313691E96909d2188C150b834285": {
+    "address": "0xfE0D6D83033e313691E96909d2188C150b834285",
+    "name": "Insured USDC",
+    "symbol": "iUSDC",
+    "logo": "iusdc.svg",
+    "decimals": 18,
+    "about": "An onchain-insured form of USDC that serves as the primary medium of exchange on the Buzzaar social marketplace ensuring the safety of its user's funds.",
+    "website": "https://buzzaar.io",
+    "support": {
+      "email": "admin@buzzaar.io",
+      "url": "https://buzzaar.io/contact/"
+    },
+    "social": {
+      "twitter": "https://twitter.com/BuzzaarOnBase"
+    }
+  },
+  "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff": {
+    "address": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
+    "name": "Based ETH",
+    "symbol": "bsdETH",
+    "logo": "bsdeth.svg",
+    "decimals": 18,
+    "about": "A yield generating Ethereum Liquid Staking Token basket with over-collateralization protection. Deposits are currently eligible for pre-launch DIVA token allocations per the terms in this proposal: https://www.tally.xyz/gov/diva/proposal/38314542060713027082977990523280607813521163704798044817782268218160075499416?chart=0"
   }
 }
