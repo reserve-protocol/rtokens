@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.12] - 2024-03-20
+
+- Update iUSD logo
+- Add MAAT (Base)
+
 ## [1.1.11] - 2024-02-23
 
 - Add iUSD (Base)
