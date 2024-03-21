@@ -60,14 +60,14 @@
     "symbol": "MAAT",
     "logo": "maat.svg",
     "decimals": 18,
-    "about": "One Dollar. One hundred Satoshis. One thousand Gwei. Balance across time.",
+    "about": "Monetary Average Across Time. The Dollar, Bitcoin, Ether unified.",
     "website": "",
     "support": {
       "email": "maatcurrency@gmail.com",
       "url": ""
     },
     "social": {
-      "twitter": "https://twitter.com/ShrineOfMaat"
+      "twitter": "https://twitter.com/FlatcoinMAAT"
     }
   }
 }
