@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.13] - 2024-04-01
+
+- Remove MAAT (Base)
+
 ## [1.1.12] - 2024-03-20
 
 - Update iUSD logo
