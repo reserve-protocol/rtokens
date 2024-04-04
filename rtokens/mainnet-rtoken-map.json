@@ -61,5 +61,13 @@
     "social": {
       "twitter": "https://twitter.com/USD_3"
     }
+  },
+  "0x78da5799CF427Fee11e9996982F4150eCe7a99A7": {
+    "address": "0x78da5799CF427Fee11e9996982F4150eCe7a99A7",
+    "name": "Revenue Generating USD",
+    "symbol": "rgUSD",
+    "logo": "rgusd.svg",
+    "decimals": 18,
+    "about": "Hold $1 USD peg, and deploy collateral to generate safe, on-chain yield to incentivize liquidity for itself and partners."
   }
 }

@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.1.14] - 2024-04-04
+
+- Add USD3 (Ethereum)
+- Add rgUSD (Ethereum)
+
 ## [1.1.13] - 2024-04-01
 
 - Remove MAAT (Base)
