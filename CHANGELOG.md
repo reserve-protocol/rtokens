@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.15] - 2024-04-04
+
+- Update rgUSD logo
+
 ## [1.1.14] - 2024-04-04
 
 - Add USD3 (Ethereum)
