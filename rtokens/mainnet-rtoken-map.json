@@ -46,5 +46,20 @@
     "decimals": 18,
     "about": "USDC PLUS (USDC+): A community governed yield bearing USDC index optimized for yield to holders and overcollateralization protection.",
     "website": "https://register.app/#/overview?token=0xFc0B1EEf20e4c68B3DCF36c4537Cfa7Ce46CA70b"
+  },
+  "0x0d86883FAf4FfD7aEb116390af37746F45b6f378": {
+    "address": "0x0d86883FAf4FfD7aEb116390af37746F45b6f378",
+    "name": "Web 3 Dollar",
+    "symbol": "USD3",
+    "logo": "usd3.svg",
+    "decimals": 18,
+    "about": "Earn the DeFi rate any time you're in stables",
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "twitter": "https://twitter.com/USD_3"
+    }
   }
 }
