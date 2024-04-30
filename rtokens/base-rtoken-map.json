@@ -53,5 +53,19 @@
     "social": {
       "twitter": "https://twitter.com/Vaya_stablecoin"
     }
+  },
+  "0x641B0453487C9D14c5df96d45a481ef1dc84e31f": {
+    "address": "0x641B0453487C9D14c5df96d45a481ef1dc84e31f",
+    "name": "Maat",
+    "symbol": "MAAT",
+    "logo": "maat.svg",
+    "decimals": 18,
+    "about": "Monetary Average Across Time. The Dollar, Bitcoin, Ether unified.",
+    "support": {
+      "email": "maatcurrency@gmail.com"
+    },
+    "social": {
+      "twitter": "https://twitter.com/FlatcoinMaat"
+    }
   }
 }
