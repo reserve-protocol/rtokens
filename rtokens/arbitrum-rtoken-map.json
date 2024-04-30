@@ -1,0 +1,16 @@
+{
+  "0x0BBF664D46becc28593368c97236FAa0fb397595": {
+    "address": "0x0BBF664D46becc28593368c97236FAa0fb397595",
+    "name": "KNOX Dollar",
+    "symbol": "KNOX",
+    "logo": "knox.svg",
+    "decimals": 18,
+    "about": "Where value anchors",
+    "support": {
+      "email": "knoxusd@gmail.com"
+    },
+    "social": {
+      "twitter": "https://twitter.com/KNOX_Dollar"
+    }
+  }
+}

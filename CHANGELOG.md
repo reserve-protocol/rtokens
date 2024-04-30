@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.1.16] - 2024-04-30
+
+- Update USDC+ logo
+- Add MAAT token (Base)
+- Add KNOX token (Arbitrum)
+
 ## [1.1.15] - 2024-04-04
 
 - Update rgUSD logo
