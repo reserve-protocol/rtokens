@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.17] - 2024-05-20
+
+- Updated MAAT logo
+
 ## [1.1.16] - 2024-04-30
 
 - Update USDC+ logo

@@ -1,6 +1,6 @@
 {
   "name": "@reserve-protocol/rtokens",
-  "version": "1.1.16",
+  "version": "1.1.17",
   "description": "RToken list",
   "main": "index.js",
   "author": "ABC Labs LLC",
