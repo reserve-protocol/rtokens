@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.19] - 2024-05-20
+
+- Change USD3 logo to lowercase
+
 ## [1.1.18] - 2024-05-20
 
 - Update bsdETH description
