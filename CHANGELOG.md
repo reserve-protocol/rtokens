@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.18] - 2024-05-20
+
+- Update bsdETH description
+
 ## [1.1.17] - 2024-05-20
 
 - Updated MAAT logo
