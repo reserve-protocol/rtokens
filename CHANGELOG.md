@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.20] - 2024-06-27
+
+- Add dgnETH (Ethereum)
+
 ## [1.1.19] - 2024-05-20
 
 - Change USD3 logo to lowercase
