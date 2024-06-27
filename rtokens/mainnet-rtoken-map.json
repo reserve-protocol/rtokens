@@ -1,4 +1,20 @@
 {
+  "0x005F893EcD7bF9667195642f7649DA8163e23658": {
+    "address": "0x005F893EcD7bF9667195642f7649DA8163e23658",
+    "name": "Degen ETH",
+    "symbol": "dgnETH",
+    "logo": "dgneth.svg",
+    "decimals": 18,
+    "about": "High-yield diversified ETH strategy index designed to sustainably outperform LST market yields",
+    "website": "https://degeneth.com",
+    "support": {
+      "email": "",
+      "url": ""
+    },
+    "social": {
+      "twitter": "https://x.com/dgnETH_"
+    }
+  },
   "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F": {
     "address": "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F",
     "name": "Electronic Dollar",
