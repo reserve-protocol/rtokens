@@ -5,7 +5,7 @@
     "symbol": "dgnETH",
     "logo": "dgneth.svg",
     "decimals": 18,
-    "about": "High-yield diversified ETH strategy index designed to sustainably outperform LST market yields",
+    "about": "Degen ETH is a high-yield diversified ETH strategy index designed to sustainably outperform LST market yields. Degen ETH uses a two-token model: dgnETH, which is pegged to ETH and backed 1:1 by DeFi yield strategies, and sdgnETH, obtained by depositing dgnETH in a staking vault, which accrues all yield from dgnETH's underlying assets.",
     "website": "https://degeneth.com",
     "support": {
       "email": "",

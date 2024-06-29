@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.21] - 2024-06-29
+
+- Change dgnETH about
+
 ## [1.1.20] - 2024-06-27
 
 - Add dgnETH (Ethereum)
