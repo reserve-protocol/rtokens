@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.22] - 2024-07-16
+
+- Remove iUSDC (Base)
+
 ## [1.1.21] - 2024-06-29
 
 - Change dgnETH about
