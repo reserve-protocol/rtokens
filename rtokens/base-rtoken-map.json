@@ -51,5 +51,12 @@
     "social": {
       "twitter": "https://twitter.com/FlatcoinMaat"
     }
-  }
-}
+  },
+  "0xf6E774D2f55cb74483eACF304c86fBE14cCEb08f": {
+    "address": "0x641B0453487C9D14c5df96d45a481ef1dc84e31f",
+    "name": "Limestone",
+    "symbol": "LIME",
+    "logo": "Limestone.svg",
+    "decimals": 18,
+    "about": "LIME is a high-yield savings stablecoin with up to 6% rewards",
+    }
