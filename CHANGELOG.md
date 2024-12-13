@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.1.23] - 2024-12-13
+
+- Add BSDX (Base)
+
 ## [1.1.22] - 2024-07-16
 
 - Remove iUSDC (Base)

@@ -15,6 +15,13 @@
       "twitter": "https://twitter.com/HighYieldUSD"
     }
   },
+  "0x8f0987DDb485219c767770e2080E5cC01ddc772a": {
+    "address": "0x8f0987DDb485219c767770e2080E5cC01ddc772a",
+    "name": "Base Yield Index",
+    "symbol": "BSDX",
+    "logo": "bsdx.svg",
+    "decimals": 18
+  },
   "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff": {
     "address": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
     "name": "Based ETH",
